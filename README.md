@@ -1,4 +1,4 @@
-# Retail Orders Extraction, Data Cleaning, Transformation, and SQL Integration  
+### Case Study: Retail Orders Data Pipeline & Analysis
 This project demonstrates a complete workflow of **data acquisition, cleaning, transformation, and database integration** using Python, Pandas, and MySQL.  
 
 ## Problem
