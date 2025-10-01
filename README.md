@@ -1,8 +1,10 @@
 # Retail Orders Extraction, Data Cleaning, Transformation, and SQL Integration  
-
 This project demonstrates a complete workflow of **data acquisition, cleaning, transformation, and database integration** using Python, Pandas, and MySQL.  
 
-### SQL ANALYSIS BUSINESS INSIGHTS
+## Problem
+Retail businesses often struggle with scattered raw data that contains inconsistencies, missing values, and unstructured formats. Without proper cleaning and integration, it’s difficult to identify key drivers of revenue, regional trends, and seasonal demand patterns that directly impact decision-making.
+
+### BUSINESS INSIGHTS: Using SQL queries I explored:
 - Top products generate a majority of revenue — focus on these for demand forecasting.
   - A handful of products generate the majority of sales.
   - Business Impact: These should be prioritized for **inventory planning** and **demand forecasting** to avoid stockouts and maximize revenue.
