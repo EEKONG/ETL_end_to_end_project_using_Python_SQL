@@ -1,10 +1,14 @@
-# 🛒 Retail Orders Extraction, Data Cleaning, Transformation, and SQL Integration  
+# Retail Orders Extraction, Data Cleaning, Transformation, and SQL Integration  
 
 This project demonstrates a complete workflow of **data acquisition, cleaning, transformation, and database integration** using Python, Pandas, and MySQL.  
 
----
+SQL ANALYSIS BUSINESS INSIGHTS
+- Top products generate a majority of revenue — focus on these for demand forecasting.
+- Regional trends show different product preferences — customize marketing strategies.
+- Seasonality is strong — timing promotions around peak months increases impact.
+- Sub-category growth in 2023 reveals new profit opportunities for the business.
 
-## 📂 Project Workflow  
+## Project Workflow  
 
 ### 1. Dataset Acquisition  
 - Installed and configured the Kaggle API.  
@@ -24,7 +28,8 @@ This project demonstrates a complete workflow of **data acquisition, cleaning, t
 - Loaded the cleaned DataFrame (df_new) into a MySQL table (df1_orders).
 - Verified data insertion by running SQL queries from Python.
 
-🛠️ Tech Stack
+### Tech Stack
 Python: Pandas, SQLAlchemy, PyMySQL
 Database: MySQL (Workbench)
 Data Source: Kaggle Retail Orders Dataset
+
