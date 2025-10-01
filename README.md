@@ -2,11 +2,22 @@
 
 This project demonstrates a complete workflow of **data acquisition, cleaning, transformation, and database integration** using Python, Pandas, and MySQL.  
 
-SQL ANALYSIS BUSINESS INSIGHTS
+### SQL ANALYSIS BUSINESS INSIGHTS
 - Top products generate a majority of revenue — focus on these for demand forecasting.
+  - A handful of products generate the majority of sales.
+  - Business Impact: These should be prioritized for **inventory planning** and **demand forecasting** to avoid stockouts and maximize revenue.
+
 - Regional trends show different product preferences — customize marketing strategies.
+  - Customer preferences vary across regions.
+  - Business Impact: Marketing strategies and promotions should be **region-specific**, catering to local demand.
+
 - Seasonality is strong — timing promotions around peak months increases impact.
+  - Clear month-over-month fluctuations in sales highlight seasonality.
+  - Business Impact: Running **targeted promotions around peak months** can significantly improve revenue performance.
+
 - Sub-category growth in 2023 reveals new profit opportunities for the business.
+  - Profit growth in specific sub-categories during 2023 shows shifting consumer interest.
+  - Business Impact: Companies can invest in **expanding product lines** in these categories to capture market growth early.
 
 ## Project Workflow  
 
